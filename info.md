@@ -1,5 +1,3 @@
-# theme-hacs
-
 _Sample theme repository for [HACS](https://github.com/custom-components/hacs)._
 
 ## Installation
